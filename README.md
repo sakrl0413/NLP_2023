@@ -8,4 +8,4 @@
 
 |#|session |keywords |
 |:--:|:--:|:--:|
-|1|code cells|[variable,assign](https://github.com/sakrl0413/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
+|1|code cells|[variable, assign](https://github.com/sakrl0413/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
